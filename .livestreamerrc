@@ -1,0 +1,3 @@
+http-header=User-Agent=AppleCoreMedia/1.0.0.11D257 (iPhone; U; CPU OS 7_1_2 like Mac OS X; en_us)
+player=/usr/local/bin/ffplay
+hls-live-edge=3
